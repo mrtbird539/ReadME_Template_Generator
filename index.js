@@ -61,6 +61,3 @@ function init() {}
 
 // Function call to initialize app
 init();
-
-
-//i like buttcheeks
